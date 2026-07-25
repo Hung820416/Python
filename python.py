@@ -22,6 +22,10 @@ False
 # 變數：用來儲存資料的自訂名稱
 # 變數名稱=資料
 data = 3
-X = 3
-# print(資料印出去)
-print(你好)
+x = 3
+x = True # print(資料印出去)
+print(x)
+x = "Hello" # 取代舊資料
+print(x)
+x = {3,5,6} # 集合
+print(x)
