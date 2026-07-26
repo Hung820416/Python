@@ -20,4 +20,4 @@ elif op=="*":
 elif op=="/":
     print(n1/n2)
 else:
-    print("不支援運算")
+    print("不支援的運算")
